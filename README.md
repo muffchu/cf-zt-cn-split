@@ -1,5 +1,6 @@
 # cf-zt-cn-split
 
+自已使用
 自动同步中国大陆 IP 段与直连域名到 Cloudflare Zero Trust 分流隧道（Split Tunnels），实现 CN 流量直连、其余流量走 WARP 的网络分流策略。
 
 -----
